@@ -1,3 +1,2 @@
 #!/bin/bash
-var_path=`pwd`
-echo $var_path
+pwd
