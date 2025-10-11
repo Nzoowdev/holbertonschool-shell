@@ -1,2 +1,2 @@
 #!/bin/bash
-cp ./ ../test.html 
+cp test.html ../test.html 
