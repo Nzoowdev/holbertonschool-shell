@@ -1,2 +1,2 @@
 #!/bin/bash
-chomod 777 hello
+chomod 640 hello
